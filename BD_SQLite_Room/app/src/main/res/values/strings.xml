@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BD_SQLite_Room</string>
+    <string name="txt_agregar">agregar</string>
+    <string name="txt_eliminar">eliminar</string>
+    <string name="txt_actualizar">actualizar</string>
+    <string name="txt_consultas">buscar</string>
+    <string name="txt_no_control">NoControl</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_primer_ap">Primer Ap</string>
+    <string name="txt_segundo_ap">Segundo Ap</string>
+    <string name="txt_edad">Edad</string>
+    <string name="txt_semestre">Semestre</string>
+    <string name="txt_carrera">Carrera</string>
+    <string name="lbl_altas">Altas</string>
+</resources>
